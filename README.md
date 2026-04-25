@@ -1,4 +1,4 @@
-#<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fashion%20MNIST&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=End-to-End%20Deep%20Learning%20Classifier&descAlignY=60&descSize=20" width="100%"/>
 
